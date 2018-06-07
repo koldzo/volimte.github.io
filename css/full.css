@@ -1,0 +1,57 @@
+/*!
+ * Start Bootstrap - Full (https://startbootstrap.com/template-overviews/full)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
+ */
+
+body {
+  /* Location of the image */
+  background-image: url(../img/bg.jpg);
+  
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
+  background-size: cover;
+  
+  /* Set a background color that will be displayed
+     while the background image is loading */
+  background-color: #464646;
+  
+  
+}
+
+.center {
+    padding: 70px 0;
+    border: 3px solid green;
+    text-align: center;
+}
+
+	
+.container1{
+    
+	 width: 100%;
+	 display: flex;
+	 height: 100vh;
+	 justify-content: center;
+	 font-family: 'Waiting for the Sunrise', cursive; 
+	 font-size:30px; 
+	 margin: 10px 10px;
+	 letter-spacing: 6px; 
+	 font-weight: bold;
+	 text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.item{
+	color: white;
+	font-weight: bold;
+	align-self: center;
+}
