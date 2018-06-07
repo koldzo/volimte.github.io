@@ -19,7 +19,8 @@ var aText = new Array(
 "jer onih pravih tako je malo,",
 "a zar su uopste i potrebne", 
 "da shvatis da mi je do tebe stalo!", 
-"VOLIM TE NAJVISE, LJUBAVI MOJA"
+"VOLIM TE NAJVISE, LJUBAVI MOJA.",
+"-Tvoj dragi Jasmin Koldzo.❤❤❤"
 );
 var iSpeed = 100; // time delay of print out
 var iIndex = 0; // start printing array at this posision
